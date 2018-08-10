@@ -12,3 +12,8 @@ Os seguintes assuntos serão abordados nesta revisão
  
 Serão disponibilizados as apresentações em notebook Jupyter. 
 Serão realizados encontros virtuais para maior debate dos assuntos, a agenda será definida e divulgada. 
+
+
+## Introdução ao R
+
+Um notebook com uma pequena introdução ao R, visitando suas funções básicas e estruturas de dados mais utilizados
